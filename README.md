@@ -1,4 +1,4 @@
-# Taiwan-CS-ChuYn-Word-List
+# Taiwan-CS-ChuYin-Word-List
 台灣慣用的資訊工程詞語清單
 
 收集各種台灣慣用，但未被收錄在微軟注音主詞中的資訊工程詞語，歡迎補全。
